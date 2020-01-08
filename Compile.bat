@@ -1,4 +1,5 @@
 @echo off
 echo Compiling...
-g++ ClockChipTest.cpp
+gcc 6502Test.cpp
 echo Done!
+pause
