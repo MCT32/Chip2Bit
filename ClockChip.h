@@ -1,3 +1,0 @@
-class ClockChip {
-  float delay;
-}
