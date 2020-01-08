@@ -15,8 +15,4 @@ class bit {
       val = true;
     }
   }
-}
-
-class byte {
-  bit[] bits;
-}
+};
